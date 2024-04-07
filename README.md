@@ -17,3 +17,5 @@ The application domain is a tire change service.
 
 6. We will use the MediatoR library for communication with Commands, Query and events. This will allow us, when expanding the application, to add additional piplines for logging information about Commandami, Query and events
 
+7. Unit tests required (not implemented because I didn't think it was required at this point) 
+
