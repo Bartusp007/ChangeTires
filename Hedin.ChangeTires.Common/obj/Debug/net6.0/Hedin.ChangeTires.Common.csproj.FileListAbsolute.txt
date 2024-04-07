@@ -1,0 +1,12 @@
+C:\p\repo\hedinit-code-test-1-feb-2024\Hedin.ChangeTires.Common\bin\Debug\net6.0\Hedin.ChangeTires.Common.deps.json
+C:\p\repo\hedinit-code-test-1-feb-2024\Hedin.ChangeTires.Common\bin\Debug\net6.0\Hedin.ChangeTires.Common.dll
+C:\p\repo\hedinit-code-test-1-feb-2024\Hedin.ChangeTires.Common\bin\Debug\net6.0\Hedin.ChangeTires.Common.pdb
+C:\p\repo\hedinit-code-test-1-feb-2024\Hedin.ChangeTires.Common\obj\Debug\net6.0\Hedin.ChangeTires.Common.csproj.AssemblyReference.cache
+C:\p\repo\hedinit-code-test-1-feb-2024\Hedin.ChangeTires.Common\obj\Debug\net6.0\Hedin.ChangeTires.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\p\repo\hedinit-code-test-1-feb-2024\Hedin.ChangeTires.Common\obj\Debug\net6.0\Hedin.ChangeTires.Common.AssemblyInfoInputs.cache
+C:\p\repo\hedinit-code-test-1-feb-2024\Hedin.ChangeTires.Common\obj\Debug\net6.0\Hedin.ChangeTires.Common.AssemblyInfo.cs
+C:\p\repo\hedinit-code-test-1-feb-2024\Hedin.ChangeTires.Common\obj\Debug\net6.0\Hedin.ChangeTires.Common.csproj.CoreCompileInputs.cache
+C:\p\repo\hedinit-code-test-1-feb-2024\Hedin.ChangeTires.Common\obj\Debug\net6.0\Hedin.ChangeTires.Common.dll
+C:\p\repo\hedinit-code-test-1-feb-2024\Hedin.ChangeTires.Common\obj\Debug\net6.0\refint\Hedin.ChangeTires.Common.dll
+C:\p\repo\hedinit-code-test-1-feb-2024\Hedin.ChangeTires.Common\obj\Debug\net6.0\Hedin.ChangeTires.Common.pdb
+C:\p\repo\hedinit-code-test-1-feb-2024\Hedin.ChangeTires.Common\obj\Debug\net6.0\ref\Hedin.ChangeTires.Common.dll

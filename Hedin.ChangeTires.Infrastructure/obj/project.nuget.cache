@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "E4zK8jZhD9Ocl0kcvDKIqj0+AracP4yrBrLyFmI6/uHQO4iB6fgSnoQamYvD2bcolC0/q+qgOr5LNFJMOg4hDA==",
+  "success": true,
+  "projectFilePath": "C:\\p\\repo\\hedinit-code-test-1-feb-2024\\Hedin.ChangeTires.Infrastructure\\Hedin.ChangeTires.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bartlomiej Pancerski\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\Bartlomiej Pancerski\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Bartlomiej Pancerski\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Bartlomiej Pancerski\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Bartlomiej Pancerski\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Bartlomiej Pancerski\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Bartlomiej Pancerski\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Bartlomiej Pancerski\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Bartlomiej Pancerski\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

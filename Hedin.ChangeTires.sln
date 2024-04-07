@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hedin.ChangeTires.Api", "Hedin.ChangeTires.Api\Hedin.ChangeTires.Api.csproj", "{CE26E1AE-E1D4-4AB2-8BC1-D35F8DE13982}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hedin.ChangeTires.Infrastructure", "Hedin.ChangeTires.Infrastructure\Hedin.ChangeTires.Infrastructure.csproj", "{F2618AD7-2BC0-4913-83A3-AE4AEEDF5C06}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hedin.ChangeTires.Common", "Hedin.ChangeTires.Common\Hedin.ChangeTires.Common.csproj", "{4F930DB3-598A-4BF5-A9A6-4EF90797857E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hedin.ChangeTires.Test", "Hedin.ChangeTires.Test\Hedin.ChangeTires.Test.csproj", "{48950692-29E1-4CA8-B1FB-45E6D00B532C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hedin.ChangeTires.Domain", "Hedin.ChangeTires.Domain\Hedin.ChangeTires.Domain.csproj", "{DBDBE2FC-C2BD-4E18-9C93-16A0ABF1C6CD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hedin.ChangeTires.Persistance", "Hedin.ChangeTires.Persistance\Hedin.ChangeTires.Persistance.csproj", "{A5783DCC-2423-4353-BB05-F6F45E4EA176}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE26E1AE-E1D4-4AB2-8BC1-D35F8DE13982}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE26E1AE-E1D4-4AB2-8BC1-D35F8DE13982}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE26E1AE-E1D4-4AB2-8BC1-D35F8DE13982}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE26E1AE-E1D4-4AB2-8BC1-D35F8DE13982}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2618AD7-2BC0-4913-83A3-AE4AEEDF5C06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2618AD7-2BC0-4913-83A3-AE4AEEDF5C06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2618AD7-2BC0-4913-83A3-AE4AEEDF5C06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2618AD7-2BC0-4913-83A3-AE4AEEDF5C06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F930DB3-598A-4BF5-A9A6-4EF90797857E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F930DB3-598A-4BF5-A9A6-4EF90797857E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F930DB3-598A-4BF5-A9A6-4EF90797857E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F930DB3-598A-4BF5-A9A6-4EF90797857E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48950692-29E1-4CA8-B1FB-45E6D00B532C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48950692-29E1-4CA8-B1FB-45E6D00B532C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48950692-29E1-4CA8-B1FB-45E6D00B532C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48950692-29E1-4CA8-B1FB-45E6D00B532C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBDBE2FC-C2BD-4E18-9C93-16A0ABF1C6CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBDBE2FC-C2BD-4E18-9C93-16A0ABF1C6CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBDBE2FC-C2BD-4E18-9C93-16A0ABF1C6CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBDBE2FC-C2BD-4E18-9C93-16A0ABF1C6CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5783DCC-2423-4353-BB05-F6F45E4EA176}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5783DCC-2423-4353-BB05-F6F45E4EA176}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5783DCC-2423-4353-BB05-F6F45E4EA176}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5783DCC-2423-4353-BB05-F6F45E4EA176}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90A10D92-5D96-4D03-8AE3-1D2AA7BA1985}
+	EndGlobalSection
+EndGlobal
